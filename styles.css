@@ -1,2 +1,6 @@
-
+.holder{
+	display: flex;
+	justify-content: center;
+	flex-flow: wrap;
+}
 /* Your CSS Code here. */
